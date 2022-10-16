@@ -1,0 +1,5 @@
+logger:
+  global:
+    level: debug
+    reportCaller: true
+    infra: local
