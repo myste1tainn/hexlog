@@ -1,0 +1,5 @@
+.DS_Store
+.idea/
+bin
+__debug_bin
+*.out
